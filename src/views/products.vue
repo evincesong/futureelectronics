@@ -27,7 +27,7 @@
               <h3>{{ item.name }}</h3>
               <p>{{ item.desc }}</p>
               <router-link :to="item.path" class="action-btn">
-                查看详情
+                View details
               </router-link>
             </div>
           </div>
