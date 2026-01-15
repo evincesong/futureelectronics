@@ -6,7 +6,7 @@ let lxList = [
   },
   {
     label: 'E_mail：',
-    value: 'evincesong888@outlook.com'
+    value: 'evince@future8electronics.com'
   },
   {
     label: 'Address：',
